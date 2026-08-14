@@ -36,3 +36,8 @@ Student_management_system/
 │
 ├── student_management_system.py
 └── README.md
+##Author
+Siddhi Santosh Hawaldar
+
+##Internship
+python development internship
